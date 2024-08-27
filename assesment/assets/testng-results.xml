@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-27T17:58:30Z" name="Test Suite for Buildout" finished-at="2024-08-27T17:59:59Z" duration-ms="88832">
+    <groups>
+    </groups>
+    <test started-at="2024-08-27T17:58:30Z" name="Test Cases for Buildout" finished-at="2024-08-27T17:59:59Z" duration-ms="88832">
+      <class name="demo.TestCases">
+        <test-method is-config="true" signature="startBrowser()[pri:0, instance:demo.TestCases@65b3a85a]" started-at="2024-08-27T23:28:30Z" name="startBrowser" finished-at="2024-08-27T23:28:34Z" duration-ms="3885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method signature="testCase01()[pri:0, instance:demo.TestCases@65b3a85a]" started-at="2024-08-27T23:28:34Z" name="testCase01" finished-at="2024-08-27T23:28:49Z" duration-ms="15567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase01 -->
+        <test-method signature="testCase02()[pri:0, instance:demo.TestCases@65b3a85a]" started-at="2024-08-27T23:28:49Z" name="testCase02" finished-at="2024-08-27T23:28:54Z" duration-ms="5106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase02 -->
+        <test-method signature="testCase03()[pri:0, instance:demo.TestCases@65b3a85a]" started-at="2024-08-27T23:28:54Z" name="testCase03" finished-at="2024-08-27T23:29:00Z" duration-ms="5059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase03 -->
+        <test-method signature="testCase04()[pri:0, instance:demo.TestCases@65b3a85a]" started-at="2024-08-27T23:29:00Z" name="testCase04" finished-at="2024-08-27T23:29:08Z" duration-ms="8635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase04 -->
+        <test-method signature="testCase05(java.lang.String)[pri:0, instance:demo.TestCases@65b3a85a]" started-at="2024-08-27T23:29:09Z" name="testCase05" data-provider="excelData" finished-at="2024-08-27T23:29:25Z" duration-ms="15662" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Movies]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase05 -->
+        <test-method signature="testCase05(java.lang.String)[pri:0, instance:demo.TestCases@65b3a85a]" started-at="2024-08-27T23:29:25Z" name="testCase05" data-provider="excelData" finished-at="2024-08-27T23:29:36Z" duration-ms="11582" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Music]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase05 -->
+        <test-method signature="testCase05(java.lang.String)[pri:0, instance:demo.TestCases@65b3a85a]" started-at="2024-08-27T23:29:36Z" name="testCase05" data-provider="excelData" finished-at="2024-08-27T23:29:59Z" duration-ms="22393" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Games]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase05 -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:demo.TestCases@65b3a85a]" started-at="2024-08-27T23:29:59Z" name="endTest" finished-at="2024-08-27T23:29:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- demo.TestCases -->
+    </test> <!-- Test Cases for Buildout -->
+  </suite> <!-- Test Suite for Buildout -->
+</testng-results>
